@@ -8,7 +8,7 @@
 #### System.Void
 #### System.String
 
-## Instructions:
+### Supported Instructions:
 #### nop
 #### ldstr
 #### call
