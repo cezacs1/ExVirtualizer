@@ -8,7 +8,7 @@
 #### System.Void
 #### System.String
 
-### Supported Instructions:
+### Supported OpCodes:
 #### nop
 #### ldstr
 #### call
