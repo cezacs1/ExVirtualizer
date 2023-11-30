@@ -9,6 +9,6 @@ Simple Code Virtualization - NET VM
 ### System.String
 
 ## Instructions:
-### [*] nop
-### [*] ldstr
-### [*] call
+#### [*] nop
+#### [*] ldstr
+#### [*] call
