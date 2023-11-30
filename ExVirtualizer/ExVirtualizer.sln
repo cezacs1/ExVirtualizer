@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVirtualizer", "ExVirtualizer\ExVirtualizer.csproj", "{B5BA66EE-F6F5-4133-B10C-391A65F1356B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testapp", "..\..\..\Desktop\GalaxyProtector\testapp\testapp.csproj", "{9FFDC637-42DE-42BA-91CD-C659D31965E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BA66EE-F6F5-4133-B10C-391A65F1356B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BA66EE-F6F5-4133-B10C-391A65F1356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BA66EE-F6F5-4133-B10C-391A65F1356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BA66EE-F6F5-4133-B10C-391A65F1356B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFDC637-42DE-42BA-91CD-C659D31965E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFDC637-42DE-42BA-91CD-C659D31965E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFDC637-42DE-42BA-91CD-C659D31965E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFDC637-42DE-42BA-91CD-C659D31965E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E93EF5E-5AE3-4E72-9CC1-F6340CDA0631}
+	EndGlobalSection
+EndGlobal
