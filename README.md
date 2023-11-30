@@ -1,5 +1,5 @@
 # ExVirtualizer 
-### Simple Code Virtualization - NET VM
+### Simple Code Virtualization - .NET VM
 ## Currently under development, not usable.
 
 #
