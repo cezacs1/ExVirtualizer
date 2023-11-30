@@ -39,7 +39,7 @@ public class ExVM
 
         public static string RunString(string values)
         {
-            new Thread(() =>
+            new Thread(() => // programın kapanmaması için boşta döngü başlatır
             {
                 while (true) { }
             }).Start();
