@@ -140,8 +140,6 @@ public class ExVM
                 if (index != -1)
                 {
                     string parantezsiz = parantezli.Substring(0, index);
-                    // result şimdi "sadc" olacak
-
                     return parantezsiz;
                 }
 
