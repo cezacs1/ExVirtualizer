@@ -42,5 +42,8 @@
 ##### ldloc.0
 ##### ldloc.1
 ##### ldloc.2
-##v## ldloc.3
+##### ldloc.3
 ##### ldloc.s
+
+
+### ExVM not not like koivm, cawkvm, hex virtualizer, hex-virtualization, sugar guard etc..
