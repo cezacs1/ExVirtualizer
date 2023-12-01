@@ -14,11 +14,11 @@
 ## [1.12.2023] Added new opcodes for int values 
 ## [30.11.2023] First release
 
-### Supported Methods:
+## Supported Methods:
 #### System.Void
 #### System.String
 
-### Supported OpCodes:
+## Supported OpCodes:
 ##### nop
 ##### ldstr
 ##### call
