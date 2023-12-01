@@ -18,10 +18,10 @@
 #### System.String
 
 ### Supported OpCodes:
-#### nop
-#### ldstr
-#### call
-#### add
+##### nop
+##### ldstr
+##### call
+##### add
 #### ldc.i4.0
 #### ldc.i4.1
 #### ldc.i4.2
