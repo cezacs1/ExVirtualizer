@@ -1,8 +1,0 @@
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\bin\Debug\ExVirtualizer.exe.config
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\bin\Debug\ExVirtualizer.exe
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\bin\Debug\ExVirtualizer.pdb
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\obj\Debug\ExVirtualizer.csproj.AssemblyReference.cache
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\obj\Debug\ExVirtualizer.csproj.CoreCompileInputs.cache
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\obj\Debug\ExVirtualizer.csproj.CopyComplete
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\obj\Debug\ExVirtualizer.exe
-C:\Users\ceza\source\repos\ExVirtualizer\ExVirtualizer\obj\Debug\ExVirtualizer.pdb
