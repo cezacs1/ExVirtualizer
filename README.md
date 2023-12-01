@@ -34,7 +34,6 @@
 ##### ldc.i4.8
 ##### ldc.i4.s
 ##### ldc.i4.0
-##### ldc.i4.0
 ##### stloc.0
 ##### stloc.1
 ##### stloc.2
