@@ -29,7 +29,7 @@ public class ExVM
 
         public static void Run(string values)
         {
-            new Thread(() =>
+            new Thread(() => // programın kapanmaması için, test yapılırken nelerin olduğunu görmeliyiz.
             {
                 while (true) { }
             }).Start();
@@ -39,7 +39,7 @@ public class ExVM
 
         public static string RunString(string values)
         {
-            new Thread(() =>
+            new Thread(() => // programın kapanmaması için, test yapılırken nelerin olduğunu görmeliyiz.
             {
                 while (true) { }
             }).Start();
