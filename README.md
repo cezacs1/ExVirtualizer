@@ -15,8 +15,8 @@
 ## [30.11.2023] First release
 
 ## Supported Methods:
-#### System.Void
-#### System.String
+##### System.Void
+##### System.String
 
 ## Supported OpCodes:
 ##### nop
